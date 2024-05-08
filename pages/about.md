@@ -14,9 +14,7 @@ credits: true
 
 ## About the Collection
 
-This digital collection features photos of vinyl records owned by Anastasia Scholze. The purpose of showcasing this collection is to showcase physical musical holdings, and to have a way for the owner to track and keep the collection. This colection includes: 
+This digital collection features photos of vinyl records owned by Anastasia Scholze. The purpose of showcasing this collection is to showcase physical musical holdings, and to have a way for the owner to track and keep the collection. This collection includes: 
 
 - a CSV of collection metadata
 - JPG images
-
-
